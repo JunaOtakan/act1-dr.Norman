@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(218, 212, 212);
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+   
+}
+ul{
+    text-align: left;
+    width: 50%;
+    margin: 0px auto;
+
+}
+.picture{
+    background-color: beige;
+    
+}
+li{
+    padding: 10px;
+}
